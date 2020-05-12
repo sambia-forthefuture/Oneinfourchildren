@@ -72,7 +72,7 @@ body {
 }
 body p {
   line-height: 24px;
-  font-family: "Karla", sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 body section.row, body header.row, body footer.row {
   margin: 0;
@@ -167,13 +167,13 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   border-left: 1px solid;
 }
 .fund_raises h6 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   margin: 0;
   line-height: 1;
   margin-bottom: 5px;
 }
 .fund_raises h2, .fund_raises h3 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   margin: 0;
   line-height: 1;
 }
@@ -244,7 +244,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   top: -31px;
   line-height: 24px;
   font-size: 12px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 .progress .percentage:after {
   display: block;
@@ -270,7 +270,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .sectionTitle h3 {
   margin-top: 22px;
   line-height: 36px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   margin-bottom: 0;
 }
@@ -553,19 +553,19 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   vertical-align: middle;
 }
 .emergency-contact .pull-left h6 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-size: 11px;
   margin: 0;
   line-height: 1.25;
 }
 .emergency-contact .pull-left h5 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin: 0;
   line-height: 1.25;
 }
 .emergency-contact .pull-left h4 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin: 0;
   line-height: 1.25;
@@ -574,7 +574,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /*TopBar*/
 .topbar {
   text-transform: uppercase;
-  font: 12px/50px "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 @media (max-width: 479px) {
   .topbar .welcome-notice {
@@ -705,7 +705,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   -webkit-box-shadow: none;
   box-shadow: none;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-size: 13px;
   width: 100%;
   border-radius: 0;
@@ -849,7 +849,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .featured_event_box .event_link a {
   line-height: 30px;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 @media (max-width: 1199px) {
   .featured_event_box .event_link a {
@@ -914,7 +914,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   font-size: 22px;
 }
 .donate_form h3, .donate_form h5, .donate_form h4 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin: 0 0 10px;
 }
@@ -1013,7 +1013,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .help-process h5 {
   margin: 25px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -1031,7 +1031,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .help-process h5 {
   margin: 25px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -1111,7 +1111,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .help-process2 h5 {
   margin-top: 30px;
   margin-bottom: 10px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
 }
 .help-process2 p {
@@ -1131,7 +1131,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .how_help_post .this_title {
   margin: 30px 0 20px;
-  font-family: "Montserrat", sans-serif;
+ font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 36px;
 }
@@ -1152,7 +1152,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   text-align: center;
 }
 .help-process3 h5 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   margin: 0 0 15px;
@@ -1203,7 +1203,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   line-height: 30px;
   margin: 0;
   text-align: center;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   -webkit-transition: all 300ms linear 0s;
   transition: all 300ms linear 0s;
@@ -1242,7 +1242,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .upcoming_events .event_title {
   font-weight: bold;
-  font-family: "Montserrat", sans-serif;
+ font-family: 'Open Sans', sans-serif;
   line-height: 21px;
   margin-top: 20px;
   margin-bottom: 0;
@@ -1364,7 +1364,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   border-right: 9px solid transparent;
 }
 .quotation_block .quote_block .quote_sign {
-  font-family: "Lora", serif;
+font-family: 'Open Sans', sans-serif;
   font-size: 72px;
   letter-spacing: 0.25px;
   line-height: 40px;
@@ -1383,14 +1383,14 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   }
 }
 .quotation_block h5 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   margin: 0;
   line-height: 24px;
 }
 .quotation_block h6 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   margin: 0;
@@ -1461,7 +1461,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   letter-spacing: -0.2px;
   line-height: 48px;
 }
@@ -1521,14 +1521,14 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   transform: translate(-50%, -50%);
 }
 .latest-post .post-title {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 21px;
   font-weight: bold;
   text-transform: uppercase;
   margin-top: 20px;
 }
 .latest-post .post-meta {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 21px;
   font-weight: bold;
   text-transform: uppercase;
@@ -1633,7 +1633,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .newsletter_signup h4 {
   margin: 0 0 3px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   line-height: 1;
 }
@@ -1650,7 +1650,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   overflow: hidden;
 }
 .newsletter_signup.style2:before {
-  font-family: "FontAwesome";
+font-family: 'Open Sans', sans-serif;
   content: "\f003";
   font-size: 172px;
   display: block;
@@ -1670,7 +1670,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   position: relative;
 }
 .newsletter_signup.style3 .container:before {
-  font-family: "FontAwesome";
+font-family: 'Open Sans', sans-serif;
   content: "\f003";
   font-size: 172px;
   display: block;
@@ -1727,7 +1727,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .footer_sidebar h5.widget-title {
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   margin-top: 0;
 }
 @media (max-width: 991px) {
@@ -1976,7 +1976,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .featured_news .news-title a {
   line-height: 32px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -2199,7 +2199,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   }
 }
 .recent_cause h5 {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 40px;
   text-transform: uppercase;
   margin: 0 0 10px;
@@ -2230,7 +2230,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   float: left;
   padding: 0 23px;
   line-height: 50px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   margin: 142px 0;
 }
@@ -2266,7 +2266,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .error_message .error_no {
   font-size: 212px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 212px;
   font-weight: 700;
   margin: 0;
@@ -2280,7 +2280,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .error_message .error_details {
   margin: 0 0 70px;
   font-size: 32px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 1;
 }
@@ -2316,11 +2316,11 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .address_box h3 {
   margin-top: 0;
   margin-bottom: 20px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 }
 .address_box address {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 30px;
   margin-bottom: 0;
@@ -2352,7 +2352,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 
 /*--------------------------------------------------------------------------------------------*/
 .contact_page_title {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin: 0 0 30px;
   text-transform: uppercase;
@@ -2429,7 +2429,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .board_head h3,
 .board_head h6 {
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 30px;
   font-weight: 700;
 }
@@ -2438,7 +2438,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 
 .team_page_title {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 1;
   margin: 10px 0 15px;
@@ -2529,7 +2529,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   max-width: 615px;
   margin: 20px auto 30px;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 36px;
   text-transform: uppercase;
 }
@@ -2587,7 +2587,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding: 32px 0 48px;
 }
 .upcoming_event .upcoming_label {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 38px;
   text-transform: uppercase;
   font-weight: 700;
@@ -2598,14 +2598,14 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   float: left;
 }
 .upcoming_event .event-title {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 0 15px;
   line-height: 1.2;
 }
 .upcoming_event .event-meta {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin: 0;
 }
@@ -2684,7 +2684,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .upcoming_event .flip-clock-wrapper ul li a div div.inn {
   font-size: 30px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-shadow: none;
 }
 @media (max-width: 767px) {
@@ -2717,7 +2717,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   right: auto;
   width: 107px;
   top: 65px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-size: 12px;
   line-height: 1;
   text-shadow: none;
@@ -3119,7 +3119,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 
 .valuable_donorsTitle {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 1.2;
   margin-top: 65px;
   margin-bottom: 25px;
@@ -3157,13 +3157,13 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   text-transform: capitalize;
 }
 .donor .inner .name {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin: 0 0 5px;
 }
 .donor .inner .amount {
   margin: 0;
-  font-family: "Karla", sans-serif;
+ font-family: 'Open Sans', sans-serif;
 }
 
 .progressBarRow2 .texts2desc {
@@ -3185,7 +3185,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .progressBarRow2 .texts2desc h4 {
   margin: 0 0 18px;
-  font-family: "Montserrat", sans-serif;
+ font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -3290,7 +3290,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); 
   font: 30px/1.2 "Montserrat", sans-serif;
 }
 
@@ -3362,7 +3362,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   margin-bottom: 35px;
   padding-bottom: 20px;
   margin-top: 0;
-  font-family: "Montserrat", sans-serif;
+ font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   border-bottom: 3px solid;
 }
@@ -3394,7 +3394,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .question_accordion .panel-title a:before {
   display: block;
   width: 30px;
-  font-family: "FontAwesome";
+font-family: 'Open Sans', sans-serif;
   float: left;
   margin-left: -30px;
 }
@@ -3444,7 +3444,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding: 38px 38px 120px;
 }
 .history_carousel .item .year {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 1;
   margin: 0 0 20px;
@@ -3489,7 +3489,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .mission_vision h5 {
   margin: 0 0 20px;
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 1;
 }
@@ -3550,7 +3550,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /*--------------------------------------------------------------------------------------------*/
 /*Heading*/
 .hhh {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin: 0 0 15px;
   text-transform: uppercase;
@@ -3677,7 +3677,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .hhh_accordion .panel-title a:after {
   display: table-cell;
-  font-family: "FontAwesome";
+font-family: 'Open Sans', sans-serif;
   vertical-align: middle;
   height: 100%;
   padding: 0 19px;
@@ -4017,7 +4017,7 @@ blockquote footer {
   float: left;
 }
 .gallery-pagination li a {
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   border: 1px solid;
   line-height: 40px;
@@ -4115,7 +4115,7 @@ blockquote footer {
 }
 .single-project h4 {
   margin-bottom: 35px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   line-height: 30px;
   margin-top: 0;
   text-transform: uppercase;
@@ -4254,7 +4254,7 @@ blockquote footer {
 }
 .post .post-title a {
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 }
 .post .post-meta li {
@@ -4329,7 +4329,7 @@ blockquote footer {
   }
 }
 .post.post-type-link .post-title a:after {
-  font-family: "FontAwesome";
+font-family: 'Open Sans', sans-serif;
   content: "\f14c";
   display: inline-block;
   margin-left: 20px;
@@ -4398,7 +4398,7 @@ blockquote footer {
 .related-post .post-title {
   margin-top: 0;
   line-height: 21px;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   margin-bottom: 10px;
 }
@@ -4866,7 +4866,7 @@ blockquote footer {
 }
 .become_volunteer label {
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -5138,7 +5138,7 @@ blockquote footer {
   margin-right: 10px;
   line-height: 16px;
   text-align: center;
-  font-family: "FontAwesome";
+font-family: 'Open Sans', sans-serif;
   content: '';
   font-size: 14px;
 }
@@ -5532,7 +5532,7 @@ blockquote footer {
 }
 .product-specification .pricing-rating h2 {
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 1;
 }
