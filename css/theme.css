@@ -21,8 +21,8 @@ body p {
   color: #435061;
 }
 .btn-primary.white.btn-outline {
-  color: #fff;
-  background: transparent;
+  color: #000;
+  background: #fff;
 }
 .btn-primary.white.btn-outline:hover, .btn-primary.white.btn-outline:focus {
   color: #fff;
@@ -34,12 +34,12 @@ body p {
 }
 .btn-primary.dark {
   border-color: #435061;
-  background: #435061;
+  background: #fff;
   color: #fff;
 }
 .btn-primary.dark.btn-outline {
   color: #435061;
-  background: transparent;
+  background: #fff;
 }
 .btn-primary.dark.btn-outline:hover, .btn-primary.dark.btn-outline:focus {
   color: #fff;
@@ -64,8 +64,8 @@ body p {
 
 /*Label*/
 .label, .label.widget-title {
-  background: #91a1b4;
-  color: #fff;
+  background: #fff;
+  color: #000000;
 }
 .label.white, .label.widget-title.white {
   background: #fff;
@@ -240,10 +240,11 @@ body p {
 }
 
 .featured_event_box {
-  background: #eef2f6;
+  background: #fff;
 }
 .featured_event_box .label {
-  background: #435061;
+  background: #742347;
+  color: #fff;
 }
 .featured_event_box .days_left {
   color: #91a1b4;
@@ -346,7 +347,7 @@ body p {
 }
 
 .how_help_post .label {
-  background: #435061;
+  background: #fff;
 }
 .how_help_post .this_title a {
   color: #fff;
@@ -544,9 +545,9 @@ body p {
   color: #435061;
 }
 .newsletter_signup_form.style2 .btn-primary {
-  background: #435061;
+  background: #fff;
   border-color: #435061;
-  color: #fff;
+  color: #000;
 }
 
 /*--------------------------------------------------------------------------------------------*/
